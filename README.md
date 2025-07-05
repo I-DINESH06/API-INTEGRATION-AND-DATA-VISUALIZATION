@@ -50,5 +50,7 @@ This hands-on project brought together several essential elements — API integr
 
 Overall, this task provided practical exposure to working with APIs and visualizing live data, making it a solid foundation for larger data science or IoT-based weather monitoring applications.
 
+# OUTPUT
 
+<img width="1920" height="938" alt="Image" src="https://github.com/user-attachments/assets/674e7d31-ad57-4f3d-85f5-fa376421d36b" />
 
